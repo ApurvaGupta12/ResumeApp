@@ -4,7 +4,7 @@ This ResumeApp is an AI powered Resume Builder and Screening Assistant app and h
 ## Project Snapshots
 
 ###  Home Page
-![Home Page](./public/Snapshots/HomePage.PNG)
+![Home Page](./Frontend/public/Snapshots/HomePage.PNG)
 
 ###  Role Selection Page
 ![Home Page](./public/Snapshots/RoleSelectionPage.PNG)
