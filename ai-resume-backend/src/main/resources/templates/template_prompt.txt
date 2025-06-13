@@ -1,0 +1,69 @@
+{
+  "personalInformation": {
+    "fullName": "",
+    "email": "",
+    "phoneNumber": "",
+    "location": "",
+    "linkedIn": null,
+    "gitHub": null,
+    "portFolio": null
+  },
+  "summary": "",
+  "skills": [
+    {
+      "title": "",
+      "level": ""
+    }
+  ],
+  "experience": [
+    {
+      "jobTitle": "",
+      "company": "",
+      "location": "",
+      "duration": "",
+      "responsibility": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "university": "",
+      "location": "",
+      "graduationYear": ""
+    }
+  ],
+  "certifications": [
+    {
+      "title": "",
+      "issuingOrganization": "",
+      "year": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "",
+      "description": "",
+      "technologiesUsed": [""],
+      "githubLink": null
+    }
+  ],
+  "achievements": [
+    {
+      "title": "",
+      "year": "",
+      "extraInformation": ""
+    }
+  ],
+  "languages": [
+    {
+      "id": 0,
+      "name": ""
+    }
+  ],
+  "interests": [
+    {
+      "id": 0,
+      "name": ""
+    }
+  ]
+}
