@@ -7,43 +7,43 @@ This ResumeApp is an AI powered Resume Builder and Screening Assistant app and h
 ![Home Page](./Frontend/public/Snapshots/HomePage.PNG)
 
 ###  Role Selection Page
-![Home Page](./Frontend/public/Snapshots/RoleSelectionPage.PNG)
+![RoleSelectionPage Page](./Frontend/public/Snapshots/RoleSelectionPage.PNG)
 
 ###  Login Page
-![Home Page](./Frontend/public/Snapshots/Login.png)
+![Login Page](./Frontend/public/Snapshots/Login.png)
 
 
 ###  Signup Page
-![Home Page](./Frontend/public/Snapshots/Signup.png)
+![Signup Page](./Frontend/public/Snapshots/Signup.png)
 
 
 ###  User Resume Templates Page
-![Home Page](./Frontend/public/Snapshots/UserResumeList.png)
+![UserResumeList Page](./Frontend/public/Snapshots/UserResumeList.png)
 
 ###  Resume Builder Page
-![Home Page](./Frontend/public/Snapshots/ResumeBuilder.png)
+![ResumeBuilder Page](./Frontend/public/Snapshots/ResumeBuilder.png)
 
 ###  Resume Builder Page(Part 2)
-![Home Page](./Frontend/public/Snapshots/ResumeB2.png)
+![ResumeB2 Page](./Frontend/public/Snapshots/ResumeB2.png)
 
 ###  User Resume Preview Page
-![Home Page](./Frontend/public/Snapshots/UserResumePreview.png)
+![UserResumePreview Page](./Frontend/public/Snapshots/UserResumePreview.png)
 
 ###  User Resume Preview Page(Part 2)
-![Home Page](./Frontend/public/Snapshots/UserRP2.png)
+![UserRP2 Page](./Frontend/public/Snapshots/UserRP2.png)
 
 ###  Resume Screening Page
-![Home Page](./Frontend/public/Snapshots/ResumeScreening.PNG)
+![ResumeScreening Page](./Frontend/public/Snapshots/ResumeScreening.PNG)
 
 ###  Resume Result Page
-![Home Page](./Frontend/public/Snapshots/ResumeResult.PNG)
+![ResumeResult Page](./Frontend/public/Snapshots/ResumeResult.PNG)
 
 ###  Admin Dashboard Page
-![Home Page](./Frontend/public/Snapshots/AdminDash.PNG)
+![AdminDash Page](./Frontend/public/Snapshots/AdminDash.PNG)
 
 
 ###  Admin Dashboard Page(Part 2)
-![Home Page](./Frontend/public/Snapshots/AdminDash2.PNG)
+![AdminDash2 Page](./Frontend/public/Snapshots/AdminDash2.PNG)
 
 
 
